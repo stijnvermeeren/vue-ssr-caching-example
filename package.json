@@ -1,0 +1,16 @@
+{
+  "name": "vue-caching-example",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "Stijn Vermeeren",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^1.0.0-rc11"
+  }
+}
